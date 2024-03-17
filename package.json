@@ -1,0 +1,13 @@
+{
+  "name": "cocos-3.82",
+  "uuid": "0ed3d317-661d-4c11-aba0-98d2f4f7ae5d",
+  "creator": {
+    "version": "3.8.2",
+    "registry": {
+      "remote": {}
+    },
+    "dependencies": {
+      "plugin-import-2x": "1.1.10"
+    }
+  }
+}
